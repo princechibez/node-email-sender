@@ -6,7 +6,7 @@ The screenshot below is the proof of the email recieved from the node js server
 
 ![node email sender](https://user-images.githubusercontent.com/78439079/179323068-d1b807c6-2c82-42d6-a018-94eb3cb83ccd.png)
 
-You can also check the code below to see the correspondence
+-   ## You can also check the code below to see the correspondence
 
 ```
 app.get("/emailer", (req, res, next) => {
