@@ -1,4 +1,4 @@
-# node-email-sender
+# Welcome to this node-email-sender :wave:
 
 ## ``This is a basic email sender app, built with nodemailer, which is a node.js package that enables one to send emails from node servers to any client via any third party transporter of choice.``
 
@@ -24,3 +24,4 @@ app.get("/emailer", (req, res, next) => {
     })
 })
 ```
+## Thank you so much for checking this application out, hope you enjoyed it :smile::wave:
